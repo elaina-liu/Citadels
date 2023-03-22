@@ -1,2 +1,2 @@
-# Citadels
-Citadels game
+# Mafia
+Mafia game
